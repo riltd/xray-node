@@ -1,0 +1,1 @@
+{"inbounds":[{"port":"PORT_PLACEHOLDER","protocol":"vless","settings":{"clients":[{"flow":"","id":"09b03064-617a-4584-9d6f-fa9c4f8eabe3"}],"decryption":"none"},"streamSettings":{"network":"ws","security":"none","wsSettings":{"path":"/ray-09b0"}}}],"log":{"loglevel":"warning"},"outbounds":[{"protocol":"freedom","tag":"direct"}]}
